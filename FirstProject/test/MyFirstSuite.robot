@@ -24,6 +24,8 @@ MySixthTest
                 Log        Hello World MySixthTest
 MySeventhTest
                 Log        Hello World MySeventhTest
+MyEigthTest
+                Log        Hello World MyEighthTest
 
 
 # MyFirstTest
